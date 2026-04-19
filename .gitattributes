@@ -5,7 +5,7 @@
 # in the repository's primary language percentage bar
 00a-frontmatter/* linguist-documentation
 
-# Completely hide BibTeX and TeX files from the language stats
+# Completely hide BibTeX files from the language stats
 *.bib linguist-detectable=false
 
 # Ensure line endings are handled consistently across different OSs
