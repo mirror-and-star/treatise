@@ -1,0 +1,9 @@
+# Force all Markdown files to be detected as Markdown
+*.md linguist-language=Markdown
+
+# Mark the frontmatter folder as documentation so it is ignored 
+# in the repository's primary language percentage bar
+00a-frontmatter/* linguist-documentation
+
+# Ensure line endings are handled consistently across different OSs
+* text=auto
