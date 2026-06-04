@@ -197,7 +197,7 @@ Across Africa, many traditional religions describe a layered cosmos involving a 
 
 ## Indidivual Contributions
 
-Some individuals made substantial contributions to the religious field. The following list is not exhuastive but highlights a few key cotrinbutors.
+Some individuals made substantial contributions to the religious field. The following list is not exhuastive but highlights a few key contributors.
 
 ### Avicenna (Ibn Sīnā, 980–1037)
 
