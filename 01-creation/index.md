@@ -1,5 +1,7 @@
 # Creation, Cosmogony, and Cosmology
 
+Creation matters because it is the first and deepest question.  Before morality, ritual, doctrine, or community, religion traditionally claimed authority over the mystery of existence itself: where the universe came from, why it is here, and what human life means within it. We are reviewing the creation accounts of the major religions not because we intend to accept them, but because they show how earlier cultures tried to answer the deepest questions with the symbolic, imaginative, and metaphysical tools available to them. Some of these accounts may contain poetic or psychological insight, but as explanations of reality they are limited, culturally conditioned, and often no longer intellectually honest for the modern mind. A coherent religion of the future must therefore take these questions back: not by replacing old dogmas with new dogmas, and not by pretending that science has already answered everything, but by reopening the great questions with seriousness, humility, evidence, reason, and wonder. The question of creation is too profound to be surrendered either to inherited mythology or to a shallow modern indifference.
+
 How the cosmos came into being is a question that still eludes us. The existence of anything at all, rather than a state of total nothingness, fundamentally defies intuition. We possess robust models for the happenings of the early universe, yet no definitive theory for its absolute genesis. When confronted without the comfort of assumed answers, the sheer reality of existence ceases to be merely a scientific puzzle and stands as an immense and profound mystery. How fortunate we are to experience the inexplicable grace of existence. 
 
 The modern mind, shaped by scientific explanation and historical criticism, often finds early cosmogonic myths (creation myths) unsatisfying because they explain the origin of the world through divine personalities, symbolic events, and poetic imagination rather than impersonal laws, evidence, or causal mechanisms. For this reason, such narratives may even be ridiculed as primitive or naïve, even though it is possible that they were meant less as literal science and more of symbolic attempts to express humanity’s place within the mystery of existence. 
@@ -195,33 +197,6 @@ In Oceania, Aboriginal Australian traditions offer highly developed and diverse 
 
 Across Africa, many traditional religions describe a layered cosmos involving a creator deity, ancestral presences, and a variety of spiritual forces. In some interpretations, influenced by scholars such as John Mbiti, the creator may be seen as relatively remote after the initial act of creation, though this characterization does not apply uniformly across all traditions. Greater emphasis is often placed on ancestors and localized spiritual agencies, as well as on concepts of vital force that animate both human and non-human life. In parts of Northern Eurasia and Inner Asia, cosmological systems often include multiple interconnected realms—commonly described as upper, middle, and lower worlds—linked by a central axis such as a world tree. This structure, classically analyzed by Mircea Eliade, is associated with shamanic practices in which ritual specialists mediate between realms to restore balance and address illness understood in cosmological terms [@Eliade1964shamanism].
 
-## Indidivual Contributions
-
-Some individuals made substantial contributions to the religious field. The following list is not exhuastive but highlights a few key contributors.
-
-### Avicenna (Ibn Sīnā, 980–1037)
-
-Avicenna (Ibn Sīnā, 980–1037) developed one of the most influential philosophical arguments for the existence of God, often referred to as the “Proof of the Truthful” (Burhān al-Ṣiddīqīn). This argument proceeds from metaphysical analysis rather than scriptural premises, establishing the necessity of a “Necessary Existent” as the ground of all contingent being. Drawing extensively on Aristotelian and Neoplatonic philosophy, Avicenna articulated a synthesis that profoundly shaped later Islamic, Jewish, and Christian thought, influencing figures such as Maimonides and Thomas Aquinas.
-
-### Thomas Aquinas (1225–1274)
-
-Thomas Aquinas (1225–1274) is one of the central figures in the development of medieval Christian theology and remains foundational for Roman Catholic intellectual tradition. Building on earlier thinkers such as Augustine of Hippo, Aquinas developed a systematic synthesis of Christian doctrine with Aristotelian philosophy. He argued that faith and reason, both originating from God, are ultimately compatible, and that rational inquiry can illuminate truths about the natural world without undermining theological commitments. His work significantly contributed to the integration of philosophical reasoning into scholastic theology.
-
-### Baruch Spinoza (1632–1677)
-
-Baruch Spinoza developed a highly influential philosophical system in which God is identified with the single, infinite substance of reality (Deus sive Natura, “God or Nature”). Rejecting the notion of a personal, transcendent deity, Spinoza proposed a strictly deterministic framework in which all things follow from the necessity of divine nature. His views led to his excommunication from the Jewish community and the later prohibition of his works by the Catholic Church. Spinoza’s philosophy has had a lasting impact on modern discussions of pantheism, naturalism, and the relationship between religion and science.
-
-### Leo Tolstoy (1828–1910)
-
-Leo Tolstoy, best known as a literary figure, also developed a deeply influential and controversial religious philosophy in the latter part of his life. Following a profound spiritual crisis, Tolstoy rejected the authority of the Russian Orthodox Church and articulated a radically ethical reinterpretation of Christianity grounded in the teachings of Jesus, particularly the Sermon on the Mount. He denied core doctrines such as the Trinity, the divinity of Christ, and the sacraments, emphasizing instead a form of Christian moral philosophy centered on nonviolence, simplicity, and universal love. Tolstoy believed that true religion must be entirely compatible with human reason and empirical observation. 
-
-Tolstoy’s reading of the Gospels led him to advocate a doctrine of non-resistance to evil by force, arguing that institutional religion and the modern state alike perpetuate violence and corruption. His views resulted in his excommunication and placed him at odds with both religious and political authorities. Nevertheless, his writings, especially The Kingdom of God Is Within You, had a wide and lasting impact, influencing figures such as Mahatma Gandhi and contributing to the development of Christian anarchism and modern nonviolent movements.
-
-Rather than constructing a systematic theology, Tolstoy’s contribution lies in his attempt to strip Christianity down to what he saw as its ethical core, rejecting metaphysical speculation in favor of lived moral practice. In this sense, his work occupies a distinctive place in modern religious thought, bridging traditional Christianity, moral philosophy, and critiques of institutional authority.
-
-### Jiddu Krishnamurti (1895–1986)
-
-Jiddu Krishnamurti emerged in the early 20th century as a distinctive voice in global spiritual discourse. Initially promoted by the Theosophical Society as a potential world teacher, he later dissolved the organization formed around him, declaring that “truth is a pathless land.” Krishnamurti rejected institutionalized religion, spiritual authority, and formalized practices, emphasizing instead direct perception. His teachings focused on the possibility of psychological transformation through attention, including the examination of the apparent division between the observer and the observed.
 
  
 
