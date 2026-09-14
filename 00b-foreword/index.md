@@ -42,6 +42,8 @@ A genuinely religious state of mind is one that has completely stepped outside a
 
 *The Mirror and the Star* is not offering another system. It is not another philosophy to be studied or authority to be followed, which would only lead to more imitation and mediocrity. It is an invitation to an open, multidisciplinary dialogue, assembling a fellowship of deeply serious inquirers.
 
+The primary impetus behind the Mirror and the Star is human liberation. We need a grounding in meaning that is coherent, collective, and like the culture of science, not easily corrupted by a bad actor or authority. 
+
 Consider the white flag. It represents a profound refusal to stand in the same violent stream as everyone else. To raise it is to reject all identification with any nation, political faction, or rigid belief system. It is a declaration that we are human first, and we are together first (not as an ideal but as a literal fact of our interconnected existence).
 
 We are not here to give you answers, for the moment you accept an answer from another, you stop looking. Like in science, we are here to share our findings so that any person can look and verify or falsify them. Yet after any finding back into the unknown we must go. We reject vanity, the pursuit of power, and fame. We reject the need for authority in this fundamental seeing. We do accept the need for educators, viewing it as a sacred calling, advocating for an education as only with proper education can the flame of intelligence be preserved.
