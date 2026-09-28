@@ -4,6 +4,8 @@ Life is a divine mystery, but our survival is not. We are threatened by an urgen
 
 Human history is a sprawling graveyard of cognitive failures. The days are numbered for our legacy cultures and legacy religions. Something has to give or break. This predicament demands a twofold response. Outwardly, we must begin the radical reconstruction of human culture, for its current trajectory leads only to ruin. Inwardly (and this is the absolute prerequisite for any outer change) we must deeply and seriously give attention to our own functioning. We must understand the process of thought, for it is within the conditioned, fragmented mind of each individual that the seeds of all global conflict, waste, and sorrow are first sown.
 
+Our global culture being in its infancy is a barrier to creating a sustained and rational beacon but such a beacon we must create.
+
 ## The Falseness of Division
 
 Look at the world. Look at what we, human beings, are actively doing. We slaughter each other for a piece of colored cloth we call a flag, for a different name for God, for the shade of our skin, for different ideas, or for an imaginary line drawn on a map. Sometimes we just slaughter out of selfishness, boredom, or indifference. We devise brilliant and sophisticated intellectual systems to justify our cruelty and greed. We distribute our resources with gross inequality. This is not an accident, and it is not the work of some external evil. It is the direct, physical manifestation of how we think. It is the world built in the image of our own minds.
